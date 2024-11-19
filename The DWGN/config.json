@@ -1,0 +1,13 @@
+{
+  "radio": [
+    {
+      "radio_name": "NOW PLAYING",
+      "radio_genre": "",
+      "radio_url": "https://streaming.live365.com/a01677",
+      "radio_image_url": "",
+      "song_metadata": "true",
+      "image_album_art": "true",
+      "auto_play": "true"
+    }
+  ]
+}
